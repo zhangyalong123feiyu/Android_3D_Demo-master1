@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\start.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\start.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bus.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\bus.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\end.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\end.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_info_bubble.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\car.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\car.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\man.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\man.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

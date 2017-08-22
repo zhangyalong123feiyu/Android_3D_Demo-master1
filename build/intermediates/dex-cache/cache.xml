@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\libs\AMap_3DMap_V2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42c9f3c5f35d3cf106a0c419b1bc542caa3ae1d8">
+        <dex dex="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\build\intermediates\pre-dexed\debug\AMap_3DMap_V2.2.1_87f6f0776094673f14c5396119551c8a34196668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\libs\Android_Location_V1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6aa98ac072ad580875266ae2a2effd9e64e0861">
+        <dex dex="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\build\intermediates\pre-dexed\debug\Android_Location_V1.1.2_e0621a42b19ab7c2f390f9ea32c20ad3f9f47f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bibinet\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7e5ac66ea7922083ca6a0e2cac708cca01194abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\libs\AMap_Services_V2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6ea761689ecf84f0ba3f55be702a277a827d801">
+        <dex dex="D:\Androidstudio_WorkSpace\Android_3D_Demo-master1\AMapApiV2Demo\build\intermediates\pre-dexed\debug\AMap_Services_V2.2.1_07eb4f87157cd4966160f34cffaae025aa331cf1.jar" />
+    </item>
+
+</items>

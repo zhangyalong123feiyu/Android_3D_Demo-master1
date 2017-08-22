@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_pressed.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_route_next.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_off.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\groundoverlay.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_default.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\left_back.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_focused.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\point.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_selected.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\prev.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_pressed.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_on.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_on.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_off.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\next_disable.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_map_poi.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_poi_search_normal.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_route_pre.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_off.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_focused.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_on.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\prev_disable.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_focused.9.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable\\mode_walk_focused.9.png"
+    }
+]

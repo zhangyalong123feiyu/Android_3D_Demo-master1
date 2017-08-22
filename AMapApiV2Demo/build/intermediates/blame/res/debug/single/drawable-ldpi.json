@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\end.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-ldpi\\end.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bus.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-ldpi\\bus.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\start.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-ldpi\\start.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\car.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-ldpi\\car.png"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\man.png",
+        "source": "D:\\Androidstudio_WorkSpace\\Android_3D_Demo-master1\\AMapApiV2Demo\\src\\main\\res\\drawable-ldpi\\man.png"
+    }
+]
